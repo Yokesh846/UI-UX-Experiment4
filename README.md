@@ -1,9 +1,16 @@
 # UI-UX-Experiment4
 
-## Aim:
 
-## Algorithm:
+Aim:
+To Design a wireframe diagram for a generic application or website using Balsamiq.
 
-## Output:
+Algorithm:
 
-## Result:
+
+Output:
+.[Uploading Wireframe_Design_Diagram (2).pdf…]()
+pdf
+
+Result:
+The wireframe diagram for a generic application or website using Balsamiq is designed and verified.
+
